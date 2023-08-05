@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Garg</h1>
-<h3 align="center">A passionate leaner from India, currently working on improving my skills in Java, DSA, Web and trying make some open source contribution</h3>
+<h3 align="center">A passionate leaner from India, currently working on improving my skills in Java, DSA, and Web and trying to make some open source contributions (All it takes is time :) , yeah a lot of it....)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj3366&label=Profile%20views&color=0e75b6&style=flat" alt="anuj3366" /> </p>
 
