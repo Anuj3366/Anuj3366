@@ -8,7 +8,7 @@
 
 <h3 align="center">
   🎓 B.E. CSE @ Chitkara University (9.38 CGPA) | 
-  💼 Upcoming Intern @ OLX |
+  💼 Tech Intern @ OLX |
   🌟 Web Dev @Inuebyes
 </h3>
 
